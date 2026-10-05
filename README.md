@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sjafri437@gmail.com"><img src="https://img.shields.io/badge/Email-sjafri437%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:saifullah.jafri437@gmail.com"><img src="https://img.shields.io/badge/Email-saifullah.jafri437%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Saifjafri212213"><img src="https://img.shields.io/badge/GitHub-Saifjafri212213-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/saifullahjafri"><img src="https://img.shields.io/badge/LinkedIn-Saif%20Ullah%20Jafri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/saifullahjafri"><img src="https://img.shields.io/badge/LeetCode-94%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
@@ -26,7 +26,7 @@ Hello! I'm **Saif Ullah Jafri**, an aspiring software developer and 2nd-year B.T
 - 💡 **Core Interests**: Full-Stack Web Development, Data Structures & Algorithms, RESTful API Engineering, and applying practical AI/ML solutions to real-world challenges.
 - ⚙️ **Hands-on Experience**: Skilled in C++, JavaScript, and Python with experience building dynamic, responsive web applications, integrating asynchronous APIs, and implementing database architectures.
 - 📍 **Location**: Ghaziabad, Uttar Pradesh, India
-- ✉️ **Contact**: [sjafri437@gmail.com](mailto:sjafri437@gmail.com) | +91 73883 32488
+- ✉️ **Contact**: [saifullah.jafri437@gmail.com](mailto:saifullah.jafri437@gmail.com) | +91 73883 32488
 
 ---
 
@@ -166,7 +166,7 @@ Here are some of the key web applications and software projects I have engineere
 
 I am always eager to collaborate on innovative projects, open-source initiatives, and software engineering opportunities:
 
-- 📧 **Email**: [sjafri437@gmail.com](mailto:sjafri437@gmail.com)
+- 📧 **Email**: [saifullah.jafri437@gmail.com](mailto:saifullah.jafri437@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/saifullahjafri](https://www.linkedin.com/in/saifullahjafri)
 - 🐙 **GitHub**: [@Saifjafri212213](https://github.com/Saifjafri212213)
 - 📍 **Location**: Ghaziabad, Uttar Pradesh, India
